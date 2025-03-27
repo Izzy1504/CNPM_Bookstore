@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
+  <diagram name="Page-1" id="O5EYX_06VxhvB3B_1ORm">
+    <mxGraphModel dx="1176" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q6sloy7A-tfg-CtrkStm-1" target="Q6sloy7A-tfg-CtrkStm-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-1" value="Quản lý hệ thống&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q6sloy7A-tfg-CtrkStm-2" target="Q6sloy7A-tfg-CtrkStm-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-2" value="Chuyên gia bảo trì" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-3" value="Chuyên gia phần mềm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="240" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-4" value="Chuyên gia phân tích tài chính" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="240" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q6sloy7A-tfg-CtrkStm-5" target="Q6sloy7A-tfg-CtrkStm-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q6sloy7A-tfg-CtrkStm-5" target="Q6sloy7A-tfg-CtrkStm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6sloy7A-tfg-CtrkStm-5" value="Giám đốc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
