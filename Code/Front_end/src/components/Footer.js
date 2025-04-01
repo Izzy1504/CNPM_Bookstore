@@ -16,7 +16,7 @@ const Footer = () => {
               We believe that reading opens doors to new worlds and experiences.
             </p>
             <div className="social-links">
-              <a href="https://the-bithub.com/izzy1504" target="_blank" rel="noopener noreferrer">
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-facebook-f"></i>
               </a>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
@@ -47,7 +47,7 @@ const Footer = () => {
               <i className="fas fa-phone"></i> (123) 456-7890
             </p>
             <p>
-              <i className="fas fa-envelope"></i> khoiminhdoan1504@gmail.com
+              <i className="fas fa-envelope"></i> info@bookstore.com
             </p>
           </div>
         </div>
